@@ -92,7 +92,8 @@
 
 **配送员信息页**
 
-![image](https://github.com/luooin/tea-chat/assets/85004172/39893b04-5750-49d6-92db-4e8c07c2886e)
+![image](https://github.com/luooin/tea-chat/assets/85004172/62ee07e2-7bd8-4f95-b7c7-687574437ff5)
+
 
 
 
