@@ -43,25 +43,22 @@
 
 ![image](https://github.com/luooin/tea-chat/assets/85004172/2d69e7f0-420b-4a8d-9a1c-b19976915810)
 
-**个人页面**
-
-![image](https://github.com/luooin/tea-chat/assets/85004172/f673f946-07d2-413f-aa4c-f39f6925a65e)
-
 
 
 > 配送员端
-
 
 
 在小程序中，除了普通用户使用的前台页面外，还设有一个专为配送员设计的独立界面。当配送员登录小程序时，他们不会看到琳琅满目的商品展示，而是直接进入到一个独特的抢单页面。这个页面专为配送员设计，用于接收和处理新的订单。每当有用户完成商品购买后，新的订单信息会实时出现在配送员的抢单页面上。配送员可以根据自己的情况和需求，自由选择是否接受这些订单。一旦接受订单，配送员就能实时追踪和管理该订单的状态，确保配送流程的顺利进行。与普通用户一样，配送员也能进入个人信息界面，对自己的地址、联系方式等个人信息进行查看和修改，以确保配送信息的准确性和高效性。这种设计为配送员提供了极大的便利，使他们能够更加高效地完成配送任务。
 
 **配送员首页**
 
-![image](https://github.com/luooin/tea-chat/assets/85004172/3a934ae3-31d0-4bac-9f7f-c87d9b681057)
+![87bb1e47aefec6c1b42e1f674548c684](https://github.com/user-attachments/assets/b5be1aa0-0dfa-4eef-9280-af717b3e8a49)
+
 
 **配送员接单**
 
-![image](https://github.com/luooin/tea-chat/assets/85004172/82c63ad8-1903-4283-98e9-ca3babd5f3bf)
+![e61e9d297583a73a1d667bff87432eba](https://github.com/user-attachments/assets/91052361-89e6-4d1e-b937-47e21c0c95b0)
+
 
 **配送员订单页面**
 
